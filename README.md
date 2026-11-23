@@ -78,7 +78,7 @@ Human reviews → Approves → Sends
 | Name | GitHub | Role |
 |---|---|---|
 | Savan Patel | [patelsavan2007-byte](https://github.com/patelsavan2007-byte) | Full-stack + AI agents |
-| Tirth Savsani | *(collaborator)* | Backend + document pipeline |
+| Tirth Savsani | [tirth266](https://github.com/tirth266) | Backend + document pipeline |
 
 ---
 
